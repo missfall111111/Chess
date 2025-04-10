@@ -1,0 +1,2 @@
+# Chess
+SE course design
